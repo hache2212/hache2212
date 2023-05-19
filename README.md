@@ -1,6 +1,6 @@
 ### Buenas, mi nombre es Hugo Romero 👋
 
-[![Linkedin](https://img.shields.io/youtube/channel/subscribers/UCxPD7bsocoAMq8Dj18kmGyQ?style=social)](https://www.linkedin.com/in/hugo-romero-domenech-b5277a257/)
+[![Linkedin](https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw)](https://www.linkedin.com/in/hugo-romero-domenech-b5277a257/)
 
 Here are some ideas to get you started:
 
