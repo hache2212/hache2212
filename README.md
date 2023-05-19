@@ -1,6 +1,6 @@
-### Hi there 👋
+### Buenas, mi nombre es Hugo Romero 👋
 
-**hache2212/hache2212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin](https://img.shields.io/youtube/channel/subscribers/UCxPD7bsocoAMq8Dj18kmGyQ?style=social)](https://www.linkedin.com/in/hugo-romero-domenech-b5277a257/)
 
 Here are some ideas to get you started:
 
