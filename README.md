@@ -6,7 +6,7 @@ Durante mi formación académica he realizado diversos proyectos y exámenes, lo
 
 ¡Estoy motivado e interesado en adquirir nuevos conocimientos y habilidades en este campo y poder explorar todo su potencial!
 
-- Redes sociales:
+- Redes sociales 💬 :
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/hugo-romero-domenech-b5277a257/)
 </br>
