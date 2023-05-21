@@ -1,6 +1,9 @@
 ### Buenas, mi nombre es Hugo Romero 👋
 
+- Redes sociales:
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/hugo-romero-domenech-b5277a257/)
+</br>
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/_hache22_/?next=%2F)
 
 Here are some ideas to get you started:
