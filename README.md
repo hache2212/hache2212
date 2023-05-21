@@ -1,8 +1,10 @@
-### Buenas, mi nombre es Hugo Romero 👋
+### Buenas, mi nombre es Hugo Romero 👋 y soy un apasionado estudiante de Desarrollo de Aplicaciones Multiplatforma.
 
-Soy Estudiante de Desarrollo de Aplicaciones Multiplatforma.
+Actualmente estoy cursando el primer año de este ciclo formativo de Grado Superior, lo que significa que estoy en las etapas iniciales de mi carrera como desarrollador ⚡.
 
-En la actualidad estoy cursando el primer año de este CFGS, por lo que estoy en las etapas iniciales de mi carrera como desarrollador ⚡.
+Durante mi formación académica he realizado diversos proyectos y exámenes, lo que me ha permitido poner en práctica los conocimientos que he ido adquiriendo durante el curso.
+
+¡Estoy motivado e interesado en adquirir nuevos conocimientos y habilidades en este campo y poder explorar todo su potencial!
 
 - Redes sociales:
 
