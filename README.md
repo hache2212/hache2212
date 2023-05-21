@@ -1,6 +1,7 @@
 ### Buenas, mi nombre es Hugo Romero 👋
 
-[![Linkedin](https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw)](https://www.linkedin.com/in/hugo-romero-domenech-b5277a257/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/hugo-romero-domenech-b5277a257/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/_hache22_/?next=%2F)
 
 Here are some ideas to get you started:
 
@@ -36,6 +37,6 @@ Actualmente en aprendijaze sobre las siguientes tecnologías:
 [![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white&labelColor=101010)]()
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white&labelColor=101010)]()
 
-- Lenguajes de progrmación:
+- Lenguajes de programación:
 
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
