@@ -1,5 +1,9 @@
 ### Buenas, mi nombre es Hugo Romero 👋
 
+Soy Estudiante de Desarrollo de Aplicaciones Multiplatforma.
+
+En la actualidad estoy cursando el primer año de este CFGS, por lo que estoy en las etapas iniciales de mi carrera como desarrollador ⚡.
+
 - Redes sociales:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/hugo-romero-domenech-b5277a257/)
