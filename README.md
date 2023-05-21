@@ -21,6 +21,8 @@ Actualmente en aprendijaze sobre las siguientes tecnologías:
 [![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white&labelColor=101010)]()
 [![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()
 [![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
+[![XSD](https://img.shields.io/badge/XSD-800080?style=for-the-badge&logo=xsd&logoColor=white&labelColor=101010)]()
+[![XML](https://img.shields.io/badge/XML-FFA500?style=for-the-badge&logo=xml&logoColor=white&labelColor=101010)]()
 
 - Bases de datos:
 
