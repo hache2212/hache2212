@@ -11,8 +11,6 @@ Durante mi formación académica he realizado diversos proyectos y exámenes, lo
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/hugo-romero-domenech-b5277a257/)
 </br>
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/_hache22_/?next=%2F)
-</br>
-[![Correo eletrónico](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](https://mail.google.com/mail/u/0/#inbox?compose=CllgCKCGDMDwnDrSnDQMSkMBPBSGvxKWcKdhZjVBlRxnxPnPSFQGckCXBMrwnMzbtkJNNqBklzg)
 
 Here are some ideas to get you started:
 
